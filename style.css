@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+height: 10vh;
+width: 100vw;
+background-color: darkblue;
+padding: 10px;
+}
+aside{
+    float: left;
+    height:80vh;
+    width: 30vw;
+    background-color: blueviolet;
+}
+section{
+      height: 80vh;
+      width: 70vw;
+      background-color: chartreuse;
+      margin-left: 30vh;
+}
+header{
+    height: 10vh;
+    width: 90vw;
+    background-color: brown;
+}
+article{
+    height: 60vh;
+    width: 90vw;
+    background-color: aqua;
+}
+.foot
+{
+    height: 10vh;
+    width: 90vw;
+    background-color: crimson;
+}
+footer{
+    height: 10vh;
+    width: 100vw;
+    background-color: darkgoldenrod;
+}
+
